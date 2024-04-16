@@ -1,0 +1,5 @@
+## Ignore PyCharm project
+.idea/
+
+## Ignore virtual environment
+venv/
